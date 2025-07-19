@@ -1,1 +1,1 @@
-# Mini-project
+# AI-Enhanced Retail Chatbot
